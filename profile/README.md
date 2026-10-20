@@ -60,3 +60,8 @@ Adapted from the [UXMM homepage](https://www.uxmm.org/). Logo sourced from [UXMM
 UXMM’s Day 2 recap reports that the two-day bootcamp has finished, with participants developing AI ideas into products. The next stage is a **five-day building and mentorship period**, leading toward pitching and the award ceremony.
 
 Sources: [Official Facebook event announcement](https://www.facebook.com/events/1775767446892054/permalink/1775767466892052/) and [UXMM Facebook page — Day 2 recap](https://www.facebook.com/uxmyanmar). Checked October 20, 2026.
+
+
+## Follow UXMM
+
+- [Facebook — UX Myanmar](https://www.facebook.com/uxmyanmar)
