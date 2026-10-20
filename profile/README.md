@@ -72,7 +72,7 @@ Sources: [Official Facebook event announcement](https://www.facebook.com/events/
 The [official AI Ocean team directory](https://aiocean.uxmm.org/team) lists 18 teams and 118 participants as of October 20, 2026. Names and roles below follow the directory; the roster may change as team formation continues.
 
 <details>
-<summary><strong>OnErrorResumeNext</strong></summary>
+<summary><strong>OnErrorResumeNext</strong> (8 members)</summary>
 
 | Member | Role |
 | --- | --- |
@@ -88,7 +88,7 @@ The [official AI Ocean team directory](https://aiocean.uxmm.org/team) lists 18 t
 </details>
 
 <details>
-<summary><strong>Aquaholics</strong></summary>
+<summary><strong>Aquaholics</strong> (7 members)</summary>
 
 | Member | Role |
 | --- | --- |
@@ -103,7 +103,7 @@ The [official AI Ocean team directory](https://aiocean.uxmm.org/team) lists 18 t
 </details>
 
 <details>
-<summary><strong>Zero_Lag</strong></summary>
+<summary><strong>Zero_Lag</strong> (7 members)</summary>
 
 | Member | Role |
 | --- | --- |
@@ -118,7 +118,7 @@ The [official AI Ocean team directory](https://aiocean.uxmm.org/team) lists 18 t
 </details>
 
 <details>
-<summary><strong>CoralCode</strong></summary>
+<summary><strong>CoralCode</strong> (5 members)</summary>
 
 | Member | Role |
 | --- | --- |
@@ -131,7 +131,7 @@ The [official AI Ocean team directory](https://aiocean.uxmm.org/team) lists 18 t
 </details>
 
 <details>
-<summary><strong>404</strong></summary>
+<summary><strong>404</strong> (5 members)</summary>
 
 | Member | Role |
 | --- | --- |
@@ -144,7 +144,7 @@ The [official AI Ocean team directory](https://aiocean.uxmm.org/team) lists 18 t
 </details>
 
 <details>
-<summary><strong>F.O.M</strong></summary>
+<summary><strong>F.O.M</strong> (6 members)</summary>
 
 | Member | Role |
 | --- | --- |
@@ -158,7 +158,7 @@ The [official AI Ocean team directory](https://aiocean.uxmm.org/team) lists 18 t
 </details>
 
 <details>
-<summary><strong>Four Hook</strong></summary>
+<summary><strong>Four Hook</strong> (4 members)</summary>
 
 | Member | Role |
 | --- | --- |
@@ -170,7 +170,7 @@ The [official AI Ocean team directory](https://aiocean.uxmm.org/team) lists 18 t
 </details>
 
 <details>
-<summary><strong>Innov8</strong></summary>
+<summary><strong>Innov8</strong> (8 members)</summary>
 
 | Member | Role |
 | --- | --- |
@@ -186,7 +186,7 @@ The [official AI Ocean team directory](https://aiocean.uxmm.org/team) lists 18 t
 </details>
 
 <details>
-<summary><strong>7Vyte</strong></summary>
+<summary><strong>7Vyte</strong> (7 members)</summary>
 
 | Member | Role |
 | --- | --- |
@@ -201,7 +201,7 @@ The [official AI Ocean team directory](https://aiocean.uxmm.org/team) lists 18 t
 </details>
 
 <details>
-<summary><strong>Sirens &amp; Knights</strong></summary>
+<summary><strong>Sirens &amp; Knights</strong> (7 members)</summary>
 
 | Member | Role |
 | --- | --- |
@@ -216,7 +216,7 @@ The [official AI Ocean team directory](https://aiocean.uxmm.org/team) lists 18 t
 </details>
 
 <details>
-<summary><strong>AquaMind</strong></summary>
+<summary><strong>AquaMind</strong> (7 members)</summary>
 
 | Member | Role |
 | --- | --- |
@@ -231,7 +231,7 @@ The [official AI Ocean team directory](https://aiocean.uxmm.org/team) lists 18 t
 </details>
 
 <details>
-<summary><strong>Something went wrong!</strong></summary>
+<summary><strong>Something went wrong!</strong> (6 members)</summary>
 
 | Member | Role |
 | --- | --- |
@@ -245,7 +245,7 @@ The [official AI Ocean team directory](https://aiocean.uxmm.org/team) lists 18 t
 </details>
 
 <details>
-<summary><strong>The Winners</strong></summary>
+<summary><strong>The Winners</strong> (7 members)</summary>
 
 | Member | Role |
 | --- | --- |
@@ -260,7 +260,7 @@ The [official AI Ocean team directory](https://aiocean.uxmm.org/team) lists 18 t
 </details>
 
 <details>
-<summary><strong>Saya-Sync</strong></summary>
+<summary><strong>Saya-Sync</strong> (6 members)</summary>
 
 | Member | Role |
 | --- | --- |
@@ -274,7 +274,7 @@ The [official AI Ocean team directory](https://aiocean.uxmm.org/team) lists 18 t
 </details>
 
 <details>
-<summary><strong>Crabbity Crab</strong></summary>
+<summary><strong>Crabbity Crab</strong> (7 members)</summary>
 
 | Member | Role |
 | --- | --- |
@@ -289,7 +289,7 @@ The [official AI Ocean team directory](https://aiocean.uxmm.org/team) lists 18 t
 </details>
 
 <details>
-<summary><strong>Ocean Blue</strong></summary>
+<summary><strong>Ocean Blue</strong> (7 members)</summary>
 
 | Member | Role |
 | --- | --- |
@@ -304,7 +304,7 @@ The [official AI Ocean team directory](https://aiocean.uxmm.org/team) lists 18 t
 </details>
 
 <details>
-<summary><strong>Surfers</strong></summary>
+<summary><strong>Surfers</strong> (7 members)</summary>
 
 | Member | Role |
 | --- | --- |
@@ -319,7 +319,7 @@ The [official AI Ocean team directory](https://aiocean.uxmm.org/team) lists 18 t
 </details>
 
 <details>
-<summary><strong>AI18</strong></summary>
+<summary><strong>AI18</strong> (7 members)</summary>
 
 | Member | Role |
 | --- | --- |
