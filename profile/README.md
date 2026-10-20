@@ -71,7 +71,8 @@ Sources: [Official Facebook event announcement](https://www.facebook.com/events/
 
 The [official AI Ocean team directory](https://aiocean.uxmm.org/team) lists 18 teams and 118 participants as of October 20, 2026. Names and roles below follow the directory; the roster may change as team formation continues.
 
-### OnErrorResumeNext
+<details>
+<summary><strong>OnErrorResumeNext</strong></summary>
 
 | Member | Role |
 | --- | --- |
@@ -84,7 +85,10 @@ The [official AI Ocean team directory](https://aiocean.uxmm.org/team) lists 18 t
 | Thae Hnin Zaw | Business Owner |
 | Htet Wunna | Business Analyst |
 
-### Aquaholics
+</details>
+
+<details>
+<summary><strong>Aquaholics</strong></summary>
 
 | Member | Role |
 | --- | --- |
@@ -96,7 +100,10 @@ The [official AI Ocean team directory](https://aiocean.uxmm.org/team) lists 18 t
 | Thaw Thaw Tun | UI Designer, UX Designer |
 | Myat Thetlyar Min | UI Designer |
 
-### Zero_Lag
+</details>
+
+<details>
+<summary><strong>Zero_Lag</strong></summary>
 
 | Member | Role |
 | --- | --- |
@@ -108,7 +115,10 @@ The [official AI Ocean team directory](https://aiocean.uxmm.org/team) lists 18 t
 | Zin Min Htet | UI Designer |
 | Min Thant Tun | Product Designer |
 
-### CoralCode
+</details>
+
+<details>
+<summary><strong>CoralCode</strong></summary>
 
 | Member | Role |
 | --- | --- |
@@ -118,7 +128,10 @@ The [official AI Ocean team directory](https://aiocean.uxmm.org/team) lists 18 t
 | Myat Phone Swe Han | Business Analyst |
 | Phyo Khant Kywal | Full Stack Developer |
 
-### 404
+</details>
+
+<details>
+<summary><strong>404</strong></summary>
 
 | Member | Role |
 | --- | --- |
@@ -128,7 +141,10 @@ The [official AI Ocean team directory](https://aiocean.uxmm.org/team) lists 18 t
 | TOE HTET ARKAR | Product Owner |
 | May Thet Htar Aung | UX Designer |
 
-### F.O.M
+</details>
+
+<details>
+<summary><strong>F.O.M</strong></summary>
 
 | Member | Role |
 | --- | --- |
@@ -139,7 +155,10 @@ The [official AI Ocean team directory](https://aiocean.uxmm.org/team) lists 18 t
 | Lin Khant Tun | Business Analyst |
 | Shin Khant | Product Owner |
 
-### Four Hook
+</details>
+
+<details>
+<summary><strong>Four Hook</strong></summary>
 
 | Member | Role |
 | --- | --- |
@@ -148,7 +167,10 @@ The [official AI Ocean team directory](https://aiocean.uxmm.org/team) lists 18 t
 | Myint Mo Phoo | UX Designer |
 | Kyawt Swe Zin Thwin | Project Manager |
 
-### Innov8
+</details>
+
+<details>
+<summary><strong>Innov8</strong></summary>
 
 | Member | Role |
 | --- | --- |
@@ -161,7 +183,10 @@ The [official AI Ocean team directory](https://aiocean.uxmm.org/team) lists 18 t
 | Myint Myint Aye | Frontend Developer |
 | Yoon Lei Htike | QA/Tester |
 
-### 7Vyte
+</details>
+
+<details>
+<summary><strong>7Vyte</strong></summary>
 
 | Member | Role |
 | --- | --- |
@@ -173,7 +198,10 @@ The [official AI Ocean team directory](https://aiocean.uxmm.org/team) lists 18 t
 | Hsu Myat Shein | Project Manager |
 | Yin Min Htike | Business Analyst |
 
-### Sirens & Knights
+</details>
+
+<details>
+<summary><strong>Sirens &amp; Knights</strong></summary>
 
 | Member | Role |
 | --- | --- |
@@ -185,7 +213,10 @@ The [official AI Ocean team directory](https://aiocean.uxmm.org/team) lists 18 t
 | Wint Kyi Phyu Kyaw | Project Manager |
 | Kyal Sin Su San | Business Owner |
 
-### AquaMind
+</details>
+
+<details>
+<summary><strong>AquaMind</strong></summary>
 
 | Member | Role |
 | --- | --- |
@@ -197,7 +228,10 @@ The [official AI Ocean team directory](https://aiocean.uxmm.org/team) lists 18 t
 | Hsu Myat Noe Thant | Frontend Developer |
 | Thant Kyi Phyu Nwe | Backend Developer |
 
-### Something went wrong!
+</details>
+
+<details>
+<summary><strong>Something went wrong!</strong></summary>
 
 | Member | Role |
 | --- | --- |
@@ -208,7 +242,10 @@ The [official AI Ocean team directory](https://aiocean.uxmm.org/team) lists 18 t
 | Sai Nanda Hein | Product Owner |
 | Khin Thinzar Shwe | Product Owner |
 
-### The Winners
+</details>
+
+<details>
+<summary><strong>The Winners</strong></summary>
 
 | Member | Role |
 | --- | --- |
@@ -220,7 +257,10 @@ The [official AI Ocean team directory](https://aiocean.uxmm.org/team) lists 18 t
 | Aeint Thet Nay Chi | UI Designer |
 | Kyi Han | Business Owner |
 
-### Saya-Sync
+</details>
+
+<details>
+<summary><strong>Saya-Sync</strong></summary>
 
 | Member | Role |
 | --- | --- |
@@ -231,7 +271,10 @@ The [official AI Ocean team directory](https://aiocean.uxmm.org/team) lists 18 t
 | Pyae Hmue Khin | UI Designer |
 | Nay Min Thu | Product Designer |
 
-### Crabbity Crab
+</details>
+
+<details>
+<summary><strong>Crabbity Crab</strong></summary>
 
 | Member | Role |
 | --- | --- |
@@ -243,7 +286,10 @@ The [official AI Ocean team directory](https://aiocean.uxmm.org/team) lists 18 t
 | Khun Htet Naing | UI Designer |
 | Hsu Hnin Ap | Project Manager, Business Owner |
 
-### Ocean Blue
+</details>
+
+<details>
+<summary><strong>Ocean Blue</strong></summary>
 
 | Member | Role |
 | --- | --- |
@@ -255,7 +301,10 @@ The [official AI Ocean team directory](https://aiocean.uxmm.org/team) lists 18 t
 | Nyein Kalayar Kyaw | Business Analyst |
 | Hay Mar Maw | Full Stack Developer, Frontend Developer |
 
-### Surfers
+</details>
+
+<details>
+<summary><strong>Surfers</strong></summary>
 
 | Member | Role |
 | --- | --- |
@@ -267,7 +316,10 @@ The [official AI Ocean team directory](https://aiocean.uxmm.org/team) lists 18 t
 | May Phoo Kyaw | UI Designer |
 | May Thuzar | Product Designer |
 
-### AI18
+</details>
+
+<details>
+<summary><strong>AI18</strong></summary>
 
 | Member | Role |
 | --- | --- |
@@ -278,5 +330,7 @@ The [official AI Ocean team directory](https://aiocean.uxmm.org/team) lists 18 t
 | Hnin Hnin Wai | Frontend Developer |
 | Aung Thura Soe | Project Manager |
 | Thant Zin Oo | Business Owner |
+
+</details>
 
 Source: [AI Ocean — Buildathon Teams](https://aiocean.uxmm.org/team).
