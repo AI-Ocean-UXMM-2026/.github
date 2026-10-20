@@ -1,4 +1,4 @@
-<p align="center"><a href="https://www.uxmm.org/"><img src="https://avatars.githubusercontent.com/u/344967412?v=4" alt="UXMM logo" width="240" /></a></p>
+<p align="center"><a href="https://www.uxmm.org/"><img src="https://raw.githubusercontent.com/AI-Ocean-UXMM-2026/.github/main/uxmm-logo-new.png" alt="UXMM logo" width="240" /></a></p>
 
 # AI Ocean UXMM 2026
 
@@ -33,7 +33,7 @@ As reported on the UXMM homepage, accessed October 20, 2026:
 
 ---
 
-Adapted from the [UXMM homepage](https://www.uxmm.org/). Logo provided by UXMM and hosted as this organization’s avatar; all rights remain with UXMM.
+Adapted from the [UXMM homepage](https://www.uxmm.org/). Logo provided by UXMM and stored in this repository; all rights remain with UXMM.
 
 
 ## Into the AI Ocean 2026
