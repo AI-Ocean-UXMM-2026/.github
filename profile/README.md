@@ -65,3 +65,218 @@ Sources: [Official Facebook event announcement](https://www.facebook.com/events/
 ## Follow UXMM
 
 - [Facebook — UX Myanmar](https://www.facebook.com/uxmyanmar)
+
+
+## Buildathon Teams
+
+The [official AI Ocean team directory](https://aiocean.uxmm.org/team) lists 18 teams and 118 participants as of October 20, 2026. Names and roles below follow the directory; the roster may change as team formation continues.
+
+### OnErrorResumeNext
+
+| Member | Role |
+| --- | --- |
+| Thuriya Ye Naing | Full Stack Developer |
+| Shoon Lae Moe Oo | Product Owner |
+| Moe Thura Aung | Frontend Developer |
+| Wint Khant Lin | Product Designer |
+| Hnin Thiri | QA/Tester |
+| Thant Thiha | Frontend Developer |
+| Thae Hnin Zaw | Business Owner |
+| Htet Wunna | Business Analyst |
+
+### Aquaholics
+
+| Member | Role |
+| --- | --- |
+| Kaung Set Thar | Full Stack Developer |
+| Pan Myo Phyu | Business Analyst, Product Designer |
+| Aye Nandar Win | Business Analyst, UI Designer, UX Designer |
+| Ye Htet Naing | Frontend Developer, Product Manager |
+| Aung Khant Min | Backend Developer |
+| Thaw Thaw Tun | UI Designer, UX Designer |
+| Myat Thetlyar Min | UI Designer |
+
+### Zero_Lag
+
+| Member | Role |
+| --- | --- |
+| Zaw Lwin Htoo | Full Stack Developer |
+| Min Kyi Sin Thant | Frontend Developer |
+| Yan Lin Naing | UX Designer |
+| Kyaw Bhone Htet | Backend Developer |
+| Bhone Myat Htut | Business Analyst |
+| Zin Min Htet | UI Designer |
+| Min Thant Tun | Product Designer |
+
+### CoralCode
+
+| Member | Role |
+| --- | --- |
+| Thiri Thu | UX Designer |
+| Htet Shoon Lae Aung | Business Analyst |
+| Htet Yadanar Myo | Product Manager |
+| Myat Phone Swe Han | Business Analyst |
+| Phyo Khant Kywal | Full Stack Developer |
+
+### 404
+
+| Member | Role |
+| --- | --- |
+| Ant Maw Htut Khaung | Business Analyst |
+| Aung Thu Hein | Full Stack Developer |
+| Aye Sandi Myint | UX Designer, Frontend Developer |
+| TOE HTET ARKAR | Product Owner |
+| May Thet Htar Aung | UX Designer |
+
+### F.O.M
+
+| Member | Role |
+| --- | --- |
+| Hlaing Myint Myat | Product Designer |
+| Thurein Hein | Business Owner |
+| Nyein Zaw Lin | Full Stack Developer |
+| P Sai Naung | Project Manager |
+| Lin Khant Tun | Business Analyst |
+| Shin Khant | Product Owner |
+
+### Four Hook
+
+| Member | Role |
+| --- | --- |
+| Myat Hmue Hay Thi | Product Owner, Entrepreneur |
+| Yoon Yati Linn | Full Stack Developer |
+| Myint Mo Phoo | UX Designer |
+| Kyawt Swe Zin Thwin | Project Manager |
+
+### Innov8
+
+| Member | Role |
+| --- | --- |
+| Htoo Myat Min Eain | Project Manager |
+| Pwint Wai Wai Tha | Full Stack Developer |
+| Aye Chan Pyae Mon | Backend Developer |
+| Han Nilar Tun | UI Designer, UX Designer |
+| Eaindra Kyaw Myat | Frontend Developer |
+| Phyu Thwe Khin | Product Designer |
+| Myint Myint Aye | Frontend Developer |
+| Yoon Lei Htike | QA/Tester |
+
+### 7Vyte
+
+| Member | Role |
+| --- | --- |
+| May Yadanar Yin Soe | Backend Developer |
+| Aye Kyawt Kyawt Hmue | UI Designer, Frontend Developer |
+| Moe Stheinkha | Business Analyst |
+| Kaung Htet Thar | Full Stack Developer |
+| May Myat Noe Latt | Full Stack Developer |
+| Hsu Myat Shein | Project Manager |
+| Yin Min Htike | Business Analyst |
+
+### Sirens & Knights
+
+| Member | Role |
+| --- | --- |
+| Kay Thari | Business Analyst, Business Owner |
+| Ye Htut | Full Stack Developer |
+| Htet Aung Myin | Backend Developer |
+| Linn Latt Eain | Product Designer, UI Designer, UX Designer |
+| Chan Myae May | Frontend Developer |
+| Wint Kyi Phyu Kyaw | Project Manager |
+| Kyal Sin Su San | Business Owner |
+
+### AquaMind
+
+| Member | Role |
+| --- | --- |
+| Thaw Linn Htet | Backend Developer |
+| Kaung Htike San | UI Designer |
+| Kyaw Zin Hein | Frontend Developer |
+| Aung Kaung Myat | UX Designer |
+| Myat Min Khant | Project Manager |
+| Hsu Myat Noe Thant | Frontend Developer |
+| Thant Kyi Phyu Nwe | Backend Developer |
+
+### Something went wrong!
+
+| Member | Role |
+| --- | --- |
+| Khin Moe Phyu | Product Owner |
+| Thin Lae Oo | Product Associate |
+| Hsu Myat Khine | Product Owner |
+| Zin Phyo Phyo Wai | Product Owner |
+| Sai Nanda Hein | Product Owner |
+| Khin Thinzar Shwe | Product Owner |
+
+### The Winners
+
+| Member | Role |
+| --- | --- |
+| Khant Zaw Hein | UI Designer |
+| Aung Khant Bwar | Project Manager |
+| Wint Nadi | Backend Developer |
+| Sai Thuta Hlaing | Frontend Developer |
+| Soe Nandar Nwe | UX Designer |
+| Aeint Thet Nay Chi | UI Designer |
+| Kyi Han | Business Owner |
+
+### Saya-Sync
+
+| Member | Role |
+| --- | --- |
+| Thet Hmu Khaing | Business Analyst |
+| Htoo Aung Shine | UI Designer |
+| Pyae Aung Hlaing | Frontend Developer |
+| Aye Mon Kyaw | Business Analyst |
+| Pyae Hmue Khin | UI Designer |
+| Nay Min Thu | Product Designer |
+
+### Crabbity Crab
+
+| Member | Role |
+| --- | --- |
+| Ye Min Htet @ Liam | Frontend Developer |
+| Lwin Moe Thwin | Product Designer |
+| Khin La Pyae Htun | Backend Developer |
+| Kaung Min Thant | UX Designer |
+| Pyae Sone Toe Wai | Full Stack Developer |
+| Khun Htet Naing | UI Designer |
+| Hsu Hnin Ap | Project Manager, Business Owner |
+
+### Ocean Blue
+
+| Member | Role |
+| --- | --- |
+| Hein Htet Thu | Project Manager |
+| May Myat Thinzar | Backend Developer |
+| Shun Pa Pa Aung | Frontend Developer |
+| Hsu Thinzar | UI Designer |
+| Kaung Khant | Product Designer |
+| Nyein Kalayar Kyaw | Business Analyst |
+| Hay Mar Maw | Full Stack Developer, Frontend Developer |
+
+### Surfers
+
+| Member | Role |
+| --- | --- |
+| Soe Lwin | Graphic Designer |
+| Ei Myat Yadanar | UI Designer |
+| Hnin Hsu Yati | Frontend Developer |
+| Aung Heein Zay | Full Stack Developer |
+| Aye Chan Myae Moe | Backend Developer |
+| May Phoo Kyaw | UI Designer |
+| May Thuzar | Product Designer |
+
+### AI18
+
+| Member | Role |
+| --- | --- |
+| Chaw Su Hlaing | Business Analyst |
+| Aye Thazin Thaung | UI Designer, UX Designer |
+| Monday Lin Paing Kee | Full Stack Developer |
+| Htet Myat Noe Ko Ko | UI Designer |
+| Hnin Hnin Wai | Frontend Developer |
+| Aung Thura Soe | Project Manager |
+| Thant Zin Oo | Business Owner |
+
+Source: [AI Ocean — Buildathon Teams](https://aiocean.uxmm.org/team).
