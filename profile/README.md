@@ -34,3 +34,29 @@ As reported on the UXMM homepage, accessed October 20, 2026:
 ---
 
 Adapted from the [UXMM homepage](https://www.uxmm.org/). Logo sourced from [UXMM’s website](https://www.uxmm.org/images/uxmm-footer.png); all rights remain with UXMM.
+
+
+## Into the AI Ocean 2026
+
+**Into The AI Ocean: From Idea To Product Buildathon** is UXMM’s annual event exploring AI across the product lifecycle: ideation, product management, UI/UX, development, QA testing, and pitching. The two-week program combines in-person and online participation and is hosted by UXMM and UXMM HUB.
+
+| Detail | Information |
+| --- | --- |
+| Main event | 17–18 October 2026 |
+| Venue | CTZPay Office, Yangon, Myanmar |
+| Participation | In person and online |
+
+### Program
+
+1. **Pre-event panel:** Industry professionals introduce the topic.
+2. **Two-day main event:** Panels, industry sharing, and hands-on sessions.
+3. **Buildathon:** Teams turn ideas into working products with mentorship, AI tools, and mini-judging sessions.
+4. **Evaluation:** A cross-border judging panel reviews submitted projects.
+5. **Judge panel discussion:** Judges share their professional insights.
+6. **Award ceremony:** Recognition for winning teams and special awards.
+
+### Latest update
+
+UXMM’s Day 2 recap reports that the two-day bootcamp has finished, with participants developing AI ideas into products. The next stage is a **five-day building and mentorship period**, leading toward pitching and the award ceremony.
+
+Sources: [Official Facebook event announcement](https://www.facebook.com/events/1775767446892054/permalink/1775767466892052/) and [UXMM Facebook page — Day 2 recap](https://www.facebook.com/uxmyanmar). Checked October 20, 2026.
